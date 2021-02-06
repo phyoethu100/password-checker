@@ -1,2 +1,1 @@
-# password-checker
-Secured password checker
+# Secured password checker
