@@ -1,1 +1,1 @@
-# Secured password checker
+# Secured Password Checker
